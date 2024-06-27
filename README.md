@@ -43,6 +43,7 @@ This repository contains a Streamlit app for downloading and clipping YouTube vi
 ├── app.py                 # Main Streamlit application file
 ├── requirements.txt       # Required Python packages
 └── README.md              # This readme file
+```
 
 ## Contributing
 
